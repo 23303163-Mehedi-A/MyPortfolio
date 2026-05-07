@@ -65,7 +65,4 @@ Edit these files to customize:
 - [Facebook](https://www.facebook.com/share/1BMtYFb52e/)
 - [GitHub](https://github.com/23303163-Mehedi-A)
 
----
-
 Built with ❤️ by Mehedi Amin
->>>>>>> 3fe18ea (initial commit)
