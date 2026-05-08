@@ -13,6 +13,7 @@
   "author": "Mehedi Amin",
   "license": "MIT",
   "dependencies": {
-    "serve": "^14.2.6"
+    "serve": "^14.2.6",
+    "pg": "^8.11.3"
   }
 }
